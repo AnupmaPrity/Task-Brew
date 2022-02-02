@@ -1,0 +1,31 @@
+.nav-wrapper{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+.link{
+    
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 10px;
+    color: rgb(24, 26, 26);
+    background: rgb(248, 244, 244);
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+    border-radius: 5rem;
+   
+}
+
+.icon{
+    height: 30px;
+    width: 30px;
+    border-radius: 2rem;
+}
+
+.link:hover{
+    color: white;
+    background: black;
+}
+
